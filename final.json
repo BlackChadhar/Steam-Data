@@ -354,15 +354,15 @@
     "name": "The Alters",
     "is_released": true,
     "current": {
-      "price": 975.0,
-      "discount": 35
+      "price": 1500.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 975.0,
       "max_discount": 35,
-      "avg_discount": 35,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 17.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -370,39 +370,39 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.247,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 39.75,
+    "score": 0.0,
     "decision": "WAIT"
   },
   "2161700": {
     "name": "Persona 3 Reload",
     "is_released": true,
     "current": {
-      "price": 3499.0,
-      "discount": 0
+      "price": 1399.0,
+      "discount": 60
     },
     "stats": {
-      "lowest_price": 3499.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 2,
+      "lowest_price": 1399.0,
+      "max_discount": 60,
+      "avg_discount": 30,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.424,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": -6.0,
-    "decision": "WAIT"
+    "score": 46.0,
+    "decision": "CONSIDER"
   },
   "1730590": {
     "name": "The Entropy Centre",
@@ -543,15 +543,15 @@
     "name": "Eriksholm: The Stolen Dream",
     "is_released": true,
     "current": {
-      "price": 1715.0,
-      "discount": 30
+      "price": 2450.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 1715.0,
       "max_discount": 30,
-      "avg_discount": 30,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 15,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -559,11 +559,11 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.212,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 38.5,
+    "score": 0.0,
     "decision": "WAIT"
   },
   "1155650": {
@@ -651,15 +651,15 @@
     "name": "Sifu",
     "is_released": true,
     "current": {
-      "price": 312.0,
-      "discount": 75
+      "price": 1249.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 312.0,
       "max_discount": 75,
-      "avg_discount": 75,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 37.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -667,12 +667,12 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.53,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 49.75,
-    "decision": "CONSIDER"
+    "score": 0.0,
+    "decision": "WAIT"
   },
   "2322010": {
     "name": "God of War Ragnar\u00f6k",
@@ -894,27 +894,27 @@
     "name": "shapez 2 - Factory",
     "is_released": true,
     "current": {
-      "price": 899.0,
-      "discount": 0
+      "price": 719.0,
+      "discount": 20
     },
     "stats": {
-      "lowest_price": 899.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 2,
+      "lowest_price": 719.0,
+      "max_discount": 20,
+      "avg_discount": 10,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.142,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": -6.0,
+    "score": 36.0,
     "decision": "WAIT"
   },
   "1757300": {
@@ -1326,27 +1326,27 @@
     "name": "Mycopunk",
     "is_released": true,
     "current": {
-      "price": 690.0,
-      "discount": 0
+      "price": 448.0,
+      "discount": 35
     },
     "stats": {
-      "lowest_price": 690.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 2,
+      "lowest_price": 448.0,
+      "max_discount": 35,
+      "avg_discount": 17.5,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.248,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": -6.0,
+    "score": 39.75,
     "decision": "WAIT"
   },
   "3489420": {
@@ -1407,15 +1407,15 @@
     "name": "Necesse",
     "is_released": true,
     "current": {
-      "price": 448.0,
-      "discount": 35
+      "price": 690.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 448.0,
       "max_discount": 35,
-      "avg_discount": 35,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 17.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -1423,11 +1423,11 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.248,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 39.75,
+    "score": 0.0,
     "decision": "WAIT"
   },
   "1989270": {
@@ -2213,33 +2213,6 @@
     "score": -6.0,
     "decision": "WAIT"
   },
-  "2300120": {
-    "name": "Painkiller",
-    "is_released": true,
-    "current": {
-      "price": 399.0,
-      "discount": 80
-    },
-    "stats": {
-      "lowest_price": 399.0,
-      "max_discount": 80,
-      "avg_discount": 80,
-      "price_position": 0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 2,
-      "days_since_lowest_price": 2,
-      "avg_days_between_sales": null,
-      "sale_consistency": null,
-      "price_trend": "unknown",
-      "total_discounts": 1,
-      "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
-    },
-    "score": 51.0,
-    "decision": "CONSIDER"
-  },
   "653530": {
     "name": "Return of the Obra Dinn",
     "is_released": true,
@@ -2406,15 +2379,15 @@
     "name": "Dorfromantik",
     "is_released": true,
     "current": {
-      "price": 307.0,
-      "discount": 30
+      "price": 439.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 307.0,
       "max_discount": 30,
-      "avg_discount": 30,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 15,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -2422,11 +2395,11 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.213,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 38.5,
+    "score": 0.0,
     "decision": "WAIT"
   },
   "1578720": {
@@ -2487,27 +2460,27 @@
     "name": "Split Fiction",
     "is_released": true,
     "current": {
-      "price": 2499.0,
-      "discount": 0
+      "price": 1749.0,
+      "discount": 30
     },
     "stats": {
-      "lowest_price": 2499.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 2,
+      "lowest_price": 1749.0,
+      "max_discount": 30,
+      "avg_discount": 15,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.212,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": -6.0,
+    "score": 38.5,
     "decision": "WAIT"
   },
   "2533600": {
@@ -2568,27 +2541,27 @@
     "name": "Clair Obscur: Expedition 33",
     "is_released": true,
     "current": {
-      "price": 2999.0,
-      "discount": 0
+      "price": 2399.0,
+      "discount": 20
     },
     "stats": {
-      "lowest_price": 2999.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 2,
+      "lowest_price": 2399.0,
+      "max_discount": 20,
+      "avg_discount": 10,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.141,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": -6.0,
+    "score": 36.0,
     "decision": "WAIT"
   },
   "2071280": {
@@ -2892,15 +2865,15 @@
     "name": "KILL KNIGHT",
     "is_released": true,
     "current": {
-      "price": 345.0,
-      "discount": 50
+      "price": 690.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 345.0,
       "max_discount": 50,
-      "avg_discount": 50,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 25,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -2908,11 +2881,11 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.354,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 43.5,
+    "score": 0.0,
     "decision": "WAIT"
   },
   "638230": {
@@ -3135,15 +3108,15 @@
     "name": "Gatekeeper",
     "is_released": true,
     "current": {
-      "price": 448.0,
-      "discount": 35
+      "price": 690.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 448.0,
       "max_discount": 35,
-      "avg_discount": 35,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 17.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -3151,11 +3124,11 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.248,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 39.75,
+    "score": 0.0,
     "decision": "WAIT"
   },
   "3487020": {
@@ -3378,15 +3351,15 @@
     "name": "Cairn",
     "is_released": true,
     "current": {
-      "price": 1105.0,
-      "discount": 15
+      "price": 1300.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 1105.0,
       "max_discount": 15,
-      "avg_discount": 15,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 7.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -3394,11 +3367,11 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.106,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 34.75,
+    "score": 0.0,
     "decision": "WAIT"
   },
   "2877770": {
@@ -4026,28 +3999,28 @@
     "name": "Persona 5 Royal",
     "is_released": true,
     "current": {
-      "price": 4399.0,
-      "discount": 0
+      "price": 879.0,
+      "discount": 80
     },
     "stats": {
-      "lowest_price": 4399.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 2,
+      "lowest_price": 879.0,
+      "max_discount": 80,
+      "avg_discount": 40,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.566,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": -6.0,
-    "decision": "WAIT"
+    "score": 51.0,
+    "decision": "CONSIDER"
   },
   "2420110": {
     "name": "Horizon Forbidden West\u2122 Complete Edition",
@@ -4269,27 +4242,27 @@
     "name": "Persona 4 Golden",
     "is_released": true,
     "current": {
-      "price": 1664.0,
-      "discount": 0
+      "price": 832.0,
+      "discount": 50
     },
     "stats": {
-      "lowest_price": 1664.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 2,
+      "lowest_price": 832.0,
+      "max_discount": 50,
+      "avg_discount": 25,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.354,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": -6.0,
+    "score": 43.5,
     "decision": "WAIT"
   },
   "1581480": {
@@ -4431,15 +4404,15 @@
     "name": "Neva",
     "is_released": true,
     "current": {
-      "price": 440.0,
-      "discount": 50
+      "price": 880.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 440.0,
       "max_discount": 50,
-      "avg_discount": 50,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 25,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -4447,11 +4420,11 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.354,
+      "data_points": 2,
+      "days_tracked": 2
     },
-    "score": 43.5,
+    "score": 0.0,
     "decision": "WAIT"
   },
   "2781620": {
@@ -5316,6 +5289,33 @@
       "days_tracked": 0
     },
     "score": 41.0,
+    "decision": "WAIT"
+  },
+  "1839430": {
+    "name": "Dolls Nest",
+    "is_released": true,
+    "current": {
+      "price": 704.0,
+      "discount": 20
+    },
+    "stats": {
+      "lowest_price": 704.0,
+      "max_discount": 20,
+      "avg_discount": 20,
+      "price_position": 0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "price_trend": "unknown",
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
+    },
+    "score": 36.0,
     "decision": "WAIT"
   }
 }
