@@ -12,8 +12,8 @@
       "avg_discount": 40,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -21,9 +21,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.566,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1145350": {
@@ -39,8 +39,8 @@
       "avg_discount": 10,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -48,9 +48,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.141,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1375750": {
@@ -66,8 +66,8 @@
       "avg_discount": 5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -75,9 +75,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.071,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2215430": {
@@ -94,7 +94,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -121,7 +121,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -148,7 +148,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -175,7 +175,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -202,7 +202,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -229,7 +229,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -256,7 +256,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -283,7 +283,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -300,27 +300,27 @@
     "name": "DEADLINE DELIVERY",
     "is_released": true,
     "current": {
-      "price": 690.0,
-      "discount": 0
+      "price": 552.0,
+      "discount": 20
     },
     "stats": {
-      "lowest_price": 690.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "lowest_price": 552.0,
+      "max_discount": 20,
+      "avg_discount": 10,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.141,
+      "data_points": 2,
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": 36.0,
     "decision": "WAIT"
   },
   "557600": {
@@ -337,7 +337,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -363,8 +363,8 @@
       "avg_discount": 17.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -372,9 +372,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.247,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2161700": {
@@ -399,7 +399,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.424,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 46.0,
     "decision": "CONSIDER"
@@ -418,7 +418,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -445,7 +445,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -472,7 +472,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -499,7 +499,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -526,7 +526,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -552,8 +552,8 @@
       "avg_discount": 15,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -561,9 +561,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.212,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1155650": {
@@ -579,8 +579,8 @@
       "avg_discount": 18.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -588,9 +588,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.262,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1562700": {
@@ -606,8 +606,8 @@
       "avg_discount": 17.5,
       "price_position": 0.0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 6,
-      "days_since_lowest_price": 6,
+      "days_since_last_discount": 7,
+      "days_since_lowest_price": 7,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -624,27 +624,27 @@
     "name": "Rain World: Downpour",
     "is_released": true,
     "current": {
-      "price": 438.0,
-      "discount": 35
+      "price": 674.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 438.0,
       "max_discount": 35,
-      "avg_discount": 35,
-      "price_position": 0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "avg_discount": 17.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.248,
+      "data_points": 2,
+      "days_tracked": 8
     },
-    "score": 33.75,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2138710": {
@@ -660,8 +660,8 @@
       "avg_discount": 37.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -669,9 +669,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.53,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2322010": {
@@ -688,7 +688,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -715,7 +715,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -742,7 +742,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -768,8 +768,8 @@
       "avg_discount": 25,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -779,7 +779,7 @@
       "data_points": 2,
       "days_tracked": 0
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2868840": {
@@ -796,7 +796,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -823,7 +823,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -850,7 +850,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -876,8 +876,8 @@
       "avg_discount": 12.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -887,7 +887,7 @@
       "data_points": 2,
       "days_tracked": 0
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2162800": {
@@ -912,7 +912,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.142,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 36.0,
     "decision": "WAIT"
@@ -931,7 +931,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -958,7 +958,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -984,8 +984,8 @@
       "avg_discount": 15,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -993,9 +993,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.213,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2903160": {
@@ -1012,7 +1012,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1047,7 +1047,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.141,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 36.0,
     "decision": "WAIT"
@@ -1066,7 +1066,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1092,8 +1092,8 @@
       "avg_discount": 33.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1101,9 +1101,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.474,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1605250": {
@@ -1119,8 +1119,8 @@
       "avg_discount": 25,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1128,9 +1128,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.354,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1809540": {
@@ -1147,7 +1147,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1173,8 +1173,8 @@
       "avg_discount": 25,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1184,7 +1184,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 31.25,
+    "score": 25.25,
     "decision": "WAIT"
   },
   "1396870": {
@@ -1201,7 +1201,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1227,8 +1227,8 @@
       "avg_discount": 10,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1236,9 +1236,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.141,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "3017860": {
@@ -1255,7 +1255,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1290,7 +1290,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.177,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 37.25,
     "decision": "WAIT"
@@ -1308,8 +1308,8 @@
       "avg_discount": 50,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1319,7 +1319,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 37.5,
+    "score": 31.5,
     "decision": "WAIT"
   },
   "3247750": {
@@ -1344,7 +1344,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.248,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 39.75,
     "decision": "WAIT"
@@ -1363,7 +1363,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1389,8 +1389,8 @@
       "avg_discount": 30,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1398,9 +1398,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.424,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1169040": {
@@ -1416,8 +1416,8 @@
       "avg_discount": 17.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1425,9 +1425,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.248,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1989270": {
@@ -1444,7 +1444,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1461,27 +1461,27 @@
     "name": "KLETKA",
     "is_released": true,
     "current": {
-      "price": 480.0,
-      "discount": 0
+      "price": 288.0,
+      "discount": 40
     },
     "stats": {
-      "lowest_price": 480.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "lowest_price": 288.0,
+      "max_discount": 40,
+      "avg_discount": 20,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0.283,
+      "data_points": 2,
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": 41.0,
     "decision": "WAIT"
   },
   "1030300": {
@@ -1498,7 +1498,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1525,7 +1525,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1552,7 +1552,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1578,8 +1578,8 @@
       "avg_discount": 25,
       "price_position": 0.0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 6,
-      "days_since_lowest_price": 6,
+      "days_since_last_discount": 7,
+      "days_since_lowest_price": 7,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1606,7 +1606,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1633,7 +1633,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1660,7 +1660,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1687,7 +1687,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1713,8 +1713,8 @@
       "avg_discount": 17.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1722,9 +1722,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.248,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "420530": {
@@ -1749,7 +1749,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.283,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 41.0,
     "decision": "WAIT"
@@ -1768,7 +1768,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1803,7 +1803,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.425,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 46.0,
     "decision": "CONSIDER"
@@ -1821,8 +1821,8 @@
       "avg_discount": 32.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1830,9 +1830,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.46,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2131640": {
@@ -1849,7 +1849,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1876,7 +1876,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1911,7 +1911,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.27,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 43.5,
     "decision": "WAIT"
@@ -1938,7 +1938,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.213,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 38.5,
     "decision": "WAIT"
@@ -1957,7 +1957,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1983,8 +1983,8 @@
       "avg_discount": 30,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -1994,7 +1994,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 32.5,
+    "score": 26.5,
     "decision": "WAIT"
   },
   "2350790": {
@@ -2011,7 +2011,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2028,27 +2028,27 @@
     "name": "Rain World",
     "is_released": true,
     "current": {
-      "price": 495.0,
-      "discount": 55
+      "price": 1100.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 495.0,
       "max_discount": 55,
-      "avg_discount": 55,
-      "price_position": 0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "avg_discount": 27.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.389,
+      "data_points": 2,
+      "days_tracked": 8
     },
-    "score": 38.75,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1492680": {
@@ -2065,7 +2065,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2091,8 +2091,8 @@
       "avg_discount": 25,
       "price_position": 0.0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2102,7 +2102,7 @@
       "data_points": 2,
       "days_tracked": 0
     },
-    "score": 37.5,
+    "score": 31.5,
     "decision": "WAIT"
   },
   "2680010": {
@@ -2119,7 +2119,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2146,7 +2146,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2172,8 +2172,8 @@
       "avg_discount": 35,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2183,7 +2183,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 33.75,
+    "score": 27.75,
     "decision": "WAIT"
   },
   "2341070": {
@@ -2200,7 +2200,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2227,7 +2227,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2253,8 +2253,8 @@
       "avg_discount": 75,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2264,7 +2264,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 43.75,
+    "score": 37.75,
     "decision": "WAIT"
   },
   "1037020": {
@@ -2280,8 +2280,8 @@
       "avg_discount": 80,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2291,8 +2291,8 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 45.0,
-    "decision": "CONSIDER"
+    "score": 39.0,
+    "decision": "WAIT"
   },
   "1900250": {
     "name": "Demonschool",
@@ -2308,7 +2308,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2335,7 +2335,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2370,7 +2370,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.354,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 43.5,
     "decision": "WAIT"
@@ -2388,8 +2388,8 @@
       "avg_discount": 15,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2397,9 +2397,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.213,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1578720": {
@@ -2415,8 +2415,8 @@
       "avg_discount": 20,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2426,7 +2426,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 30.0,
+    "score": 24.0,
     "decision": "WAIT"
   },
   "1150690": {
@@ -2443,7 +2443,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2478,7 +2478,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.212,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 38.5,
     "decision": "WAIT"
@@ -2496,8 +2496,8 @@
       "avg_discount": 30,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2507,7 +2507,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 32.5,
+    "score": 26.5,
     "decision": "WAIT"
   },
   "1172710": {
@@ -2524,7 +2524,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2559,7 +2559,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.141,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 36.0,
     "decision": "WAIT"
@@ -2577,8 +2577,8 @@
       "avg_discount": 20,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2586,9 +2586,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.283,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1807090": {
@@ -2604,8 +2604,8 @@
       "avg_discount": 78,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2615,7 +2615,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 44.5,
+    "score": 38.5,
     "decision": "WAIT"
   },
   "2615540": {
@@ -2632,7 +2632,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2659,7 +2659,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2686,7 +2686,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2712,8 +2712,8 @@
       "avg_discount": 17.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2721,9 +2721,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.247,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2800900": {
@@ -2740,7 +2740,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2767,7 +2767,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2794,7 +2794,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2821,7 +2821,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2848,7 +2848,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2874,8 +2874,8 @@
       "avg_discount": 25,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2883,9 +2883,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.354,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "638230": {
@@ -2902,7 +2902,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2929,7 +2929,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2956,7 +2956,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2982,8 +2982,8 @@
       "avg_discount": 10,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -2991,9 +2991,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.141,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "3156770": {
@@ -3010,7 +3010,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3036,8 +3036,8 @@
       "avg_discount": 25,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3045,9 +3045,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.354,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "814380": {
@@ -3064,7 +3064,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3090,8 +3090,8 @@
       "avg_discount": 17,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3099,9 +3099,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.24,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2106670": {
@@ -3117,8 +3117,8 @@
       "avg_discount": 17.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3126,9 +3126,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.248,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "3487020": {
@@ -3145,7 +3145,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3172,7 +3172,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3198,7 +3198,7 @@
       "avg_discount": 16.5,
       "price_position": 0.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
+      "days_since_last_discount": 8,
       "days_since_lowest_price": 0,
       "avg_days_between_sales": null,
       "sale_consistency": null,
@@ -3207,9 +3207,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.244,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": 0.0,
+    "score": -6.0,
     "decision": "WAIT"
   },
   "1598780": {
@@ -3234,7 +3234,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.141,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 36.0,
     "decision": "WAIT"
@@ -3252,8 +3252,8 @@
       "avg_discount": 60,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3263,7 +3263,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 40.0,
+    "score": 34.0,
     "decision": "WAIT"
   },
   "2676030": {
@@ -3279,8 +3279,8 @@
       "avg_discount": 7.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3288,9 +3288,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.106,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2235200": {
@@ -3306,8 +3306,8 @@
       "avg_discount": 20,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3317,7 +3317,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 30.0,
+    "score": 24.0,
     "decision": "WAIT"
   },
   "1057090": {
@@ -3333,8 +3333,8 @@
       "avg_discount": 75,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3344,7 +3344,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 43.75,
+    "score": 37.75,
     "decision": "WAIT"
   },
   "1588550": {
@@ -3360,8 +3360,8 @@
       "avg_discount": 7.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3369,9 +3369,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.106,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2877770": {
@@ -3388,7 +3388,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3415,7 +3415,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3442,7 +3442,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3469,7 +3469,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3495,8 +3495,8 @@
       "avg_discount": 40,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3506,7 +3506,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 35.0,
+    "score": 29.0,
     "decision": "WAIT"
   },
   "473950": {
@@ -3523,7 +3523,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3550,7 +3550,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3585,7 +3585,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.531,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 49.75,
     "decision": "CONSIDER"
@@ -3604,7 +3604,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3630,8 +3630,8 @@
       "avg_discount": 25,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3641,7 +3641,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 31.25,
+    "score": 25.25,
     "decision": "WAIT"
   },
   "3639650": {
@@ -3666,7 +3666,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.106,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 34.75,
     "decision": "WAIT"
@@ -3685,7 +3685,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3711,8 +3711,8 @@
       "avg_discount": 70,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3722,7 +3722,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 42.5,
+    "score": 36.5,
     "decision": "WAIT"
   },
   "1663850": {
@@ -3739,7 +3739,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3765,8 +3765,8 @@
       "avg_discount": 32.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3774,36 +3774,36 @@
       "discounts_last_year": 1,
       "price_volatility": 0.46,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2126190": {
     "name": "Rue Valley",
     "is_released": true,
     "current": {
-      "price": 389.0,
-      "discount": 40
+      "price": 649.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 389.0,
       "max_discount": 40,
-      "avg_discount": 20,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 6,
-      "days_since_lowest_price": 6,
+      "avg_discount": 13.33,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 7,
+      "days_since_lowest_price": 7,
       "avg_days_between_sales": null,
       "sale_consistency": null,
-      "price_trend": "unknown",
+      "price_trend": "stable",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0.283,
-      "data_points": 2,
-      "days_tracked": 1
+      "price_volatility": 0.231,
+      "data_points": 3,
+      "days_tracked": 8
     },
-    "score": 35.0,
+    "score": 6.0,
     "decision": "WAIT"
   },
   "1977200": {
@@ -3820,7 +3820,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3846,8 +3846,8 @@
       "avg_discount": 25,
       "price_position": 0.0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3857,7 +3857,7 @@
       "data_points": 2,
       "days_tracked": 0
     },
-    "score": 37.5,
+    "score": 31.5,
     "decision": "WAIT"
   },
   "1313140": {
@@ -3874,7 +3874,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3901,7 +3901,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3928,7 +3928,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3955,7 +3955,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -3982,7 +3982,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4017,7 +4017,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.566,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 51.0,
     "decision": "CONSIDER"
@@ -4036,7 +4036,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4062,8 +4062,8 @@
       "avg_discount": 41.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4071,9 +4071,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.587,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1259420": {
@@ -4090,7 +4090,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4117,7 +4117,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4144,7 +4144,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4171,7 +4171,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4198,7 +4198,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4224,8 +4224,8 @@
       "avg_discount": 75,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4235,7 +4235,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 43.75,
+    "score": 37.75,
     "decision": "WAIT"
   },
   "1113000": {
@@ -4260,7 +4260,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.354,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 43.5,
     "decision": "WAIT"
@@ -4279,7 +4279,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4305,8 +4305,8 @@
       "avg_discount": 27.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4314,9 +4314,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.389,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1931180": {
@@ -4333,7 +4333,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4360,7 +4360,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4414,7 +4414,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4440,8 +4440,8 @@
       "avg_discount": 25,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4449,9 +4449,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.354,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "2781620": {
@@ -4467,8 +4467,8 @@
       "avg_discount": 10,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4478,7 +4478,7 @@
       "data_points": 2,
       "days_tracked": 0
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "3767740": {
@@ -4495,7 +4495,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4522,7 +4522,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4549,7 +4549,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4575,8 +4575,8 @@
       "avg_discount": 30,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4584,9 +4584,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.424,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "553420": {
@@ -4603,7 +4603,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4629,8 +4629,8 @@
       "avg_discount": 15,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4638,9 +4638,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.212,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "606160": {
@@ -4656,8 +4656,8 @@
       "avg_discount": 12.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4665,9 +4665,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.177,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "3357650": {
@@ -4684,7 +4684,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4711,7 +4711,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4738,7 +4738,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4765,7 +4765,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4792,7 +4792,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4819,7 +4819,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4846,7 +4846,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4881,7 +4881,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.071,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 33.5,
     "decision": "WAIT"
@@ -4899,8 +4899,8 @@
       "avg_discount": 50,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4910,7 +4910,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 37.5,
+    "score": 31.5,
     "decision": "WAIT"
   },
   "3280350": {
@@ -4927,7 +4927,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4954,7 +4954,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -4989,7 +4989,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.566,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 51.0,
     "decision": "CONSIDER"
@@ -5016,7 +5016,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.141,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
     "score": 36.0,
     "decision": "WAIT"
@@ -5034,8 +5034,8 @@
       "avg_discount": 50,
       "price_position": 0,
       "relative_discount": 1.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5045,7 +5045,7 @@
       "data_points": 1,
       "days_tracked": 0
     },
-    "score": 37.5,
+    "score": 31.5,
     "decision": "WAIT"
   },
   "1708010": {
@@ -5062,7 +5062,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5089,7 +5089,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5116,7 +5116,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5143,7 +5143,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5170,7 +5170,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5197,7 +5197,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5223,8 +5223,8 @@
       "avg_discount": 12.5,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5232,9 +5232,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.177,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "1931770": {
@@ -5251,7 +5251,7 @@
       "price_position": 0,
       "relative_discount": 0,
       "days_since_last_discount": null,
-      "days_since_lowest_price": 7,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5277,8 +5277,8 @@
       "avg_discount": 10,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 7,
-      "days_since_lowest_price": 7,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 8,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5286,9 +5286,9 @@
       "discounts_last_year": 1,
       "price_volatility": 0.141,
       "data_points": 2,
-      "days_tracked": 7
+      "days_tracked": 8
     },
-    "score": -6.0,
+    "score": -12.0,
     "decision": "WAIT"
   },
   "3047750": {
@@ -5304,8 +5304,8 @@
       "avg_discount": 20,
       "price_position": 1.0,
       "relative_discount": 0.0,
-      "days_since_last_discount": 6,
-      "days_since_lowest_price": 6,
+      "days_since_last_discount": 7,
+      "days_since_lowest_price": 7,
       "avg_days_between_sales": null,
       "sale_consistency": null,
       "price_trend": "unknown",
@@ -5313,7 +5313,7 @@
       "discounts_last_year": 1,
       "price_volatility": 0.283,
       "data_points": 2,
-      "days_tracked": 6
+      "days_tracked": 7
     },
     "score": -6.0,
     "decision": "WAIT"
