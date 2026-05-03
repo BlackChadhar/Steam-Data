@@ -63,7 +63,7 @@
     "stats": {
       "lowest_price": 1400.0,
       "max_discount": 50,
-      "avg_discount": 18.7,
+      "avg_discount": 19.82,
       "price_position": 0.0,
       "relative_discount": 1.0,
       "days_since_last_discount": 12,
@@ -73,8 +73,8 @@
       "price_trend": "stable",
       "total_discounts": 12,
       "discounts_last_year": 8,
-      "price_volatility": 0.217,
-      "data_points": 27,
+      "price_volatility": 0.221,
+      "data_points": 28,
       "days_tracked": 703
     },
     "score": 81.5,
@@ -441,7 +441,7 @@
     "stats": {
       "lowest_price": 1600.0,
       "max_discount": 50,
-      "avg_discount": 17.87,
+      "avg_discount": 19.88,
       "price_position": 0.0,
       "relative_discount": 1.0,
       "days_since_last_discount": 12,
@@ -451,8 +451,8 @@
       "price_trend": "stable",
       "total_discounts": 6,
       "discounts_last_year": 6,
-      "price_volatility": 0.218,
-      "data_points": 15,
+      "price_volatility": 0.225,
+      "data_points": 16,
       "days_tracked": 333
     },
     "score": 67.5,
@@ -782,33 +782,6 @@
     "score": 53.32,
     "decision": "CONSIDER"
   },
-  "2615540": {
-    "name": "VOID/BREAKER",
-    "is_released": true,
-    "current": {
-      "price": 875.0,
-      "discount": 62
-    },
-    "stats": {
-      "lowest_price": 700.0,
-      "max_discount": 70,
-      "avg_discount": 60.5,
-      "price_position": 1.0,
-      "relative_discount": 0.886,
-      "days_since_last_discount": 0,
-      "days_since_lowest_price": 24,
-      "avg_days_between_sales": 257.0,
-      "sale_consistency": 0.5,
-      "price_trend": "stable",
-      "total_discounts": 2,
-      "discounts_last_year": 2,
-      "price_volatility": 0.076,
-      "data_points": 16,
-      "days_tracked": 257
-    },
-    "score": 52.22,
-    "decision": "CONSIDER"
-  },
   "1113000": {
     "name": "Persona 4 Golden",
     "is_released": true,
@@ -981,7 +954,7 @@
     "stats": {
       "lowest_price": 367.0,
       "max_discount": 35,
-      "avg_discount": 13.61,
+      "avg_discount": 13.87,
       "price_position": 0.251,
       "relative_discount": 1.0,
       "days_since_last_discount": 11,
@@ -992,7 +965,7 @@
       "total_discounts": 39,
       "discounts_last_year": 11,
       "price_volatility": 0.177,
-      "data_points": 83,
+      "data_points": 84,
       "days_tracked": 1413
     },
     "score": 42.98,
@@ -1106,33 +1079,6 @@
     "score": 34.11,
     "decision": "CONSIDER"
   },
-  "1641960": {
-    "name": "Forever Skies",
-    "is_released": true,
-    "current": {
-      "price": 900.0,
-      "discount": 31
-    },
-    "stats": {
-      "lowest_price": 605.0,
-      "max_discount": 53,
-      "avg_discount": 17.44,
-      "price_position": 0.424,
-      "relative_discount": 0.585,
-      "days_since_last_discount": 0,
-      "days_since_lowest_price": 45,
-      "avg_days_between_sales": 32.6875,
-      "sale_consistency": 0.295,
-      "price_trend": "stable",
-      "total_discounts": 33,
-      "discounts_last_year": 12,
-      "price_volatility": 0.166,
-      "data_points": 88,
-      "days_tracked": 1046
-    },
-    "score": 29.09,
-    "decision": "WAIT"
-  },
   "1259420": {
     "name": "Days Gone",
     "is_released": true,
@@ -1185,6 +1131,33 @@
       "days_tracked": 2754
     },
     "score": 15.0,
+    "decision": "WAIT"
+  },
+  "2615540": {
+    "name": "VOID/BREAKER",
+    "is_released": true,
+    "current": {
+      "price": 875.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 700.0,
+      "max_discount": 70,
+      "avg_discount": 56.94,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 24,
+      "avg_days_between_sales": 257.0,
+      "sale_consistency": 0.5,
+      "price_trend": "stable",
+      "total_discounts": 2,
+      "discounts_last_year": 2,
+      "price_volatility": 0.075,
+      "data_points": 17,
+      "days_tracked": 257
+    },
+    "score": 11.0,
     "decision": "WAIT"
   },
   "3949040": {
@@ -1538,33 +1511,6 @@
     "score": 6.0,
     "decision": "WAIT"
   },
-  "1903340": {
-    "name": "Clair Obscur: Expedition 33",
-    "is_released": true,
-    "current": {
-      "price": 2946.0,
-      "discount": 2
-    },
-    "stats": {
-      "lowest_price": 2399.0,
-      "max_discount": 20,
-      "avg_discount": 4.85,
-      "price_position": 0.912,
-      "relative_discount": 0.1,
-      "days_since_last_discount": 10,
-      "days_since_lowest_price": 10,
-      "avg_days_between_sales": 32.5,
-      "sale_consistency": 0.221,
-      "price_trend": "stable",
-      "total_discounts": 15,
-      "discounts_last_year": 14,
-      "price_volatility": 0.066,
-      "data_points": 39,
-      "days_tracked": 465
-    },
-    "score": 5.82,
-    "decision": "WAIT"
-  },
   "1671210": {
     "name": "DELTARUNE",
     "is_released": true,
@@ -1696,6 +1642,33 @@
       "price_volatility": 0.168,
       "data_points": 49,
       "days_tracked": 1955
+    },
+    "score": 2.0,
+    "decision": "WAIT"
+  },
+  "1903340": {
+    "name": "Clair Obscur: Expedition 33",
+    "is_released": true,
+    "current": {
+      "price": 2999.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 2399.0,
+      "max_discount": 20,
+      "avg_discount": 4.72,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 10,
+      "days_since_lowest_price": 10,
+      "avg_days_between_sales": 32.5,
+      "sale_consistency": 0.221,
+      "price_trend": "stable",
+      "total_discounts": 15,
+      "discounts_last_year": 14,
+      "price_volatility": 0.066,
+      "data_points": 40,
+      "days_tracked": 465
     },
     "score": 2.0,
     "decision": "WAIT"
@@ -2294,33 +2267,6 @@
     "score": 0,
     "decision": "WAIT"
   },
-  "1534840": {
-    "name": "Hyper Light Breaker",
-    "is_released": true,
-    "current": {
-      "price": 1300.0,
-      "discount": 0
-    },
-    "stats": {
-      "lowest_price": 1300.0,
-      "max_discount": 0,
-      "avg_discount": 0,
-      "price_position": 0,
-      "relative_discount": 0,
-      "days_since_last_discount": null,
-      "days_since_lowest_price": 12,
-      "avg_days_between_sales": null,
-      "sale_consistency": null,
-      "price_trend": "unknown",
-      "total_discounts": 0,
-      "discounts_last_year": 0,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
-    },
-    "score": 0,
-    "decision": "WAIT"
-  },
   "1371570": {
     "name": "A Fox Tale",
     "is_released": true,
@@ -2456,33 +2402,6 @@
     "score": 0,
     "decision": "WAIT"
   },
-  "3487020": {
-    "name": "Sub-Verge",
-    "is_released": true,
-    "current": {
-      "price": 321.0,
-      "discount": 7
-    },
-    "stats": {
-      "lowest_price": 172.0,
-      "max_discount": 50,
-      "avg_discount": 15.19,
-      "price_position": 0.861,
-      "relative_discount": 0.14,
-      "days_since_last_discount": 6,
-      "days_since_lowest_price": 24,
-      "avg_days_between_sales": 40.111111111111114,
-      "sale_consistency": 0.29,
-      "price_trend": "stable",
-      "total_discounts": 10,
-      "discounts_last_year": 9,
-      "price_volatility": 0.188,
-      "data_points": 21,
-      "days_tracked": 367
-    },
-    "score": -0.36,
-    "decision": "WAIT"
-  },
   "2754380": {
     "name": "The Roottrees are Dead",
     "is_released": true,
@@ -2514,15 +2433,15 @@
     "name": "Gnomes",
     "is_released": true,
     "current": {
-      "price": 477.0,
-      "discount": 1
+      "price": 480.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 240.0,
       "max_discount": 50,
-      "avg_discount": 15.79,
-      "price_position": 0.988,
-      "relative_discount": 0.02,
+      "avg_discount": 15.24,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 0,
       "days_since_lowest_price": 12,
       "avg_days_between_sales": 32.833333333333336,
@@ -2530,11 +2449,11 @@
       "price_trend": "stable",
       "total_discounts": 13,
       "discounts_last_year": 12,
-      "price_volatility": 0.188,
-      "data_points": 28,
+      "price_volatility": 0.186,
+      "data_points": 29,
       "days_tracked": 394
     },
-    "score": -1.17,
+    "score": -2.0,
     "decision": "WAIT"
   },
   "1794680": {
@@ -3158,6 +3077,33 @@
     "score": -7.0,
     "decision": "WAIT"
   },
+  "3487020": {
+    "name": "Sub-Verge",
+    "is_released": true,
+    "current": {
+      "price": 345.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 172.0,
+      "max_discount": 50,
+      "avg_discount": 14.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 6,
+      "days_since_lowest_price": 24,
+      "avg_days_between_sales": 40.111111111111114,
+      "sale_consistency": 0.29,
+      "price_trend": "stable",
+      "total_discounts": 10,
+      "discounts_last_year": 9,
+      "price_volatility": 0.187,
+      "data_points": 22,
+      "days_tracked": 367
+    },
+    "score": -7.0,
+    "decision": "WAIT"
+  },
   "1966900": {
     "name": "20 Minutes Till Dawn",
     "is_released": true,
@@ -3181,6 +3127,33 @@
       "price_volatility": 0.191,
       "data_points": 78,
       "days_tracked": 1425
+    },
+    "score": -7.0,
+    "decision": "WAIT"
+  },
+  "1641960": {
+    "name": "Forever Skies",
+    "is_released": true,
+    "current": {
+      "price": 1300.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 605.0,
+      "max_discount": 53,
+      "avg_discount": 17.25,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 45,
+      "avg_days_between_sales": 32.6875,
+      "sale_consistency": 0.295,
+      "price_trend": "stable",
+      "total_discounts": 33,
+      "discounts_last_year": 12,
+      "price_volatility": 0.166,
+      "data_points": 89,
+      "days_tracked": 1046
     },
     "score": -7.0,
     "decision": "WAIT"
@@ -3428,60 +3401,6 @@
     "score": -9.0,
     "decision": "WAIT"
   },
-  "2138710": {
-    "name": "Sifu",
-    "is_released": true,
-    "current": {
-      "price": 1204.0,
-      "discount": 0
-    },
-    "stats": {
-      "lowest_price": 312.0,
-      "max_discount": 75,
-      "avg_discount": 23.13,
-      "price_position": 0.952,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 24,
-      "days_since_lowest_price": 12,
-      "avg_days_between_sales": 33.34375,
-      "sale_consistency": 0.643,
-      "price_trend": "stable",
-      "total_discounts": 33,
-      "discounts_last_year": 10,
-      "price_volatility": 0.272,
-      "data_points": 79,
-      "days_tracked": 1132
-    },
-    "score": -9.28,
-    "decision": "WAIT"
-  },
-  "2124120": {
-    "name": "SULFUR",
-    "is_released": true,
-    "current": {
-      "price": 1080.0,
-      "discount": 2
-    },
-    "stats": {
-      "lowest_price": 638.0,
-      "max_discount": 42,
-      "avg_discount": 14.34,
-      "price_position": 0.957,
-      "relative_discount": 0.048,
-      "days_since_last_discount": 0,
-      "days_since_lowest_price": 45,
-      "avg_days_between_sales": 36.8,
-      "sale_consistency": 0.3,
-      "price_trend": "stable",
-      "total_discounts": 16,
-      "discounts_last_year": 10,
-      "price_volatility": 0.143,
-      "data_points": 59,
-      "days_tracked": 552
-    },
-    "score": -9.89,
-    "decision": "WAIT"
-  },
   "2377280": {
     "name": "Eriksholm: The Stolen Dream",
     "is_released": true,
@@ -3532,6 +3451,33 @@
       "price_volatility": 0.149,
       "data_points": 32,
       "days_tracked": 571
+    },
+    "score": -10.0,
+    "decision": "WAIT"
+  },
+  "2138710": {
+    "name": "Sifu",
+    "is_released": true,
+    "current": {
+      "price": 1249.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 312.0,
+      "max_discount": 75,
+      "avg_discount": 22.84,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 24,
+      "days_since_lowest_price": 12,
+      "avg_days_between_sales": 33.34375,
+      "sale_consistency": 0.643,
+      "price_trend": "stable",
+      "total_discounts": 33,
+      "discounts_last_year": 10,
+      "price_volatility": 0.272,
+      "data_points": 80,
+      "days_tracked": 1132
     },
     "score": -10.0,
     "decision": "WAIT"
@@ -4099,6 +4045,33 @@
       "price_volatility": 0.334,
       "data_points": 117,
       "days_tracked": 2333
+    },
+    "score": -12.0,
+    "decision": "WAIT"
+  },
+  "2124120": {
+    "name": "SULFUR",
+    "is_released": true,
+    "current": {
+      "price": 1100.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 638.0,
+      "max_discount": 42,
+      "avg_discount": 14.1,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 45,
+      "avg_days_between_sales": 36.8,
+      "sale_consistency": 0.3,
+      "price_trend": "stable",
+      "total_discounts": 16,
+      "discounts_last_year": 10,
+      "price_volatility": 0.143,
+      "data_points": 60,
+      "days_tracked": 552
     },
     "score": -12.0,
     "decision": "WAIT"
