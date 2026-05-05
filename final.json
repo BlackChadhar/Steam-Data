@@ -1,85 +1,4 @@
 {
-  "527230": {
-    "name": "For The King",
-    "is_released": true,
-    "current": {
-      "price": 105.0,
-      "discount": 80
-    },
-    "stats": {
-      "lowest_price": 105.0,
-      "max_discount": 80,
-      "avg_discount": 31.84,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 1,
-      "days_since_lowest_price": 0,
-      "avg_days_between_sales": 38.09090909090909,
-      "sale_consistency": 0.0,
-      "price_trend": "stable",
-      "total_discounts": 89,
-      "discounts_last_year": 8,
-      "price_volatility": 0.329,
-      "data_points": 193,
-      "days_tracked": 3353
-    },
-    "score": 91.75,
-    "decision": "BUY"
-  },
-  "3173130": {
-    "name": "Gun Frog",
-    "is_released": true,
-    "current": {
-      "price": 150.0,
-      "discount": 40
-    },
-    "stats": {
-      "lowest_price": 150.0,
-      "max_discount": 40,
-      "avg_discount": 16.5,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 1,
-      "days_since_lowest_price": 0,
-      "avg_days_between_sales": 63.22222222222222,
-      "sale_consistency": 0.197,
-      "price_trend": "stable",
-      "total_discounts": 10,
-      "discounts_last_year": 6,
-      "price_volatility": 0.163,
-      "data_points": 20,
-      "days_tracked": 570
-    },
-    "score": 91.0,
-    "decision": "BUY"
-  },
-  "2275490": {
-    "name": "Kaizen: A Factory Story",
-    "is_released": true,
-    "current": {
-      "price": 204.0,
-      "discount": 77
-    },
-    "stats": {
-      "lowest_price": 204.0,
-      "max_discount": 77,
-      "avg_discount": 17.4,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 1,
-      "days_since_lowest_price": 0,
-      "avg_days_between_sales": 44.2,
-      "sale_consistency": 0.389,
-      "price_trend": "stable",
-      "total_discounts": 6,
-      "discounts_last_year": 6,
-      "price_volatility": 0.271,
-      "data_points": 15,
-      "days_tracked": 295
-    },
-    "score": 90.75,
-    "decision": "BUY"
-  },
   "1983260": {
     "name": "Dungeons of Hinterberg",
     "is_released": true,
@@ -106,6 +25,33 @@
     },
     "score": 83.5,
     "decision": "BUY"
+  },
+  "731040": {
+    "name": "The Invincible",
+    "is_released": true,
+    "current": {
+      "price": 599.0,
+      "discount": 60
+    },
+    "stats": {
+      "lowest_price": 599.0,
+      "max_discount": 60,
+      "avg_discount": 14.62,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": 29.366666666666667,
+      "sale_consistency": 0.535,
+      "price_trend": "stable",
+      "total_discounts": 31,
+      "discounts_last_year": 14,
+      "price_volatility": 0.199,
+      "data_points": 66,
+      "days_tracked": 911
+    },
+    "score": 83.0,
+    "decision": "CONSIDER"
   },
   "1687950": {
     "name": "Persona 5 Royal",
@@ -134,33 +80,6 @@
     "score": 82.75,
     "decision": "BUY"
   },
-  "2124490": {
-    "name": "SILENT HILL 2",
-    "is_released": true,
-    "current": {
-      "price": 1400.0,
-      "discount": 50
-    },
-    "stats": {
-      "lowest_price": 1400.0,
-      "max_discount": 50,
-      "avg_discount": 19.82,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 14,
-      "days_since_lowest_price": 2,
-      "avg_days_between_sales": 46.36363636363637,
-      "sale_consistency": 0.046,
-      "price_trend": "stable",
-      "total_discounts": 12,
-      "discounts_last_year": 8,
-      "price_volatility": 0.221,
-      "data_points": 28,
-      "days_tracked": 703
-    },
-    "score": 81.5,
-    "decision": "BUY"
-  },
   "2877770": {
     "name": "Into the Restless Ruins",
     "is_released": true,
@@ -186,33 +105,6 @@
       "days_tracked": 363
     },
     "score": 80.5,
-    "decision": "BUY"
-  },
-  "2341070": {
-    "name": "The Banished Vault",
-    "is_released": true,
-    "current": {
-      "price": 737.0,
-      "discount": 33
-    },
-    "stats": {
-      "lowest_price": 737.0,
-      "max_discount": 33,
-      "avg_discount": 10.32,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 1,
-      "days_since_lowest_price": 1,
-      "avg_days_between_sales": 40.56,
-      "sale_consistency": 0.431,
-      "price_trend": "stable",
-      "total_discounts": 26,
-      "discounts_last_year": 10,
-      "price_volatility": 0.126,
-      "data_points": 53,
-      "days_tracked": 1014
-    },
-    "score": 80.25,
     "decision": "BUY"
   },
   "2144740": {
@@ -566,33 +458,6 @@
     "score": 67.5,
     "decision": "BUY"
   },
-  "2947440": {
-    "name": "SILENT HILL f",
-    "is_released": true,
-    "current": {
-      "price": 1600.0,
-      "discount": 50
-    },
-    "stats": {
-      "lowest_price": 1600.0,
-      "max_discount": 50,
-      "avg_discount": 19.88,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 14,
-      "days_since_lowest_price": 2,
-      "avg_days_between_sales": 29.6,
-      "sale_consistency": 0.751,
-      "price_trend": "stable",
-      "total_discounts": 6,
-      "discounts_last_year": 6,
-      "price_volatility": 0.225,
-      "data_points": 16,
-      "days_tracked": 333
-    },
-    "score": 67.5,
-    "decision": "CONSIDER"
-  },
   "1562430": {
     "name": "DREDGE",
     "is_released": true,
@@ -618,6 +483,33 @@
       "days_tracked": 1159
     },
     "score": 67.25,
+    "decision": "BUY"
+  },
+  "282070": {
+    "name": "This War of Mine",
+    "is_released": true,
+    "current": {
+      "price": 132.0,
+      "discount": 85
+    },
+    "stats": {
+      "lowest_price": 44.0,
+      "max_discount": 95,
+      "avg_discount": 40.68,
+      "price_position": 0.105,
+      "relative_discount": 0.895,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 330,
+      "avg_days_between_sales": 79.45833333333333,
+      "sale_consistency": 0.0,
+      "price_trend": "stable",
+      "total_discounts": 49,
+      "discounts_last_year": 10,
+      "price_volatility": 0.323,
+      "data_points": 202,
+      "days_tracked": 3835
+    },
+    "score": 67.08,
     "decision": "BUY"
   },
   "3241660": {
@@ -674,33 +566,6 @@
     "score": 63.43,
     "decision": "BUY"
   },
-  "3054210": {
-    "name": "Identifile: Desktop Dungeon",
-    "is_released": true,
-    "current": {
-      "price": 360.0,
-      "discount": 25
-    },
-    "stats": {
-      "lowest_price": 360.0,
-      "max_discount": 25,
-      "avg_discount": 11.36,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 8,
-      "days_since_lowest_price": 2,
-      "avg_days_between_sales": 38.5,
-      "sale_consistency": 0.324,
-      "price_trend": "stable",
-      "total_discounts": 5,
-      "discounts_last_year": 5,
-      "price_volatility": 0.112,
-      "data_points": 11,
-      "days_tracked": 160
-    },
-    "score": 62.25,
-    "decision": "BUY"
-  },
   "2457220": {
     "name": "Avowed",
     "is_released": true,
@@ -726,60 +591,6 @@
       "days_tracked": 535
     },
     "score": 55.91,
-    "decision": "CONSIDER"
-  },
-  "890720": {
-    "name": "In Other Waters",
-    "is_released": true,
-    "current": {
-      "price": 172.0,
-      "discount": 75
-    },
-    "stats": {
-      "lowest_price": 137.0,
-      "max_discount": 75,
-      "avg_discount": 30.21,
-      "price_position": 0.063,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 11,
-      "days_since_lowest_price": 1230,
-      "avg_days_between_sales": 35.65,
-      "sale_consistency": 0.596,
-      "price_trend": "stable",
-      "total_discounts": 61,
-      "discounts_last_year": 9,
-      "price_volatility": 0.294,
-      "data_points": 128,
-      "days_tracked": 2221
-    },
-    "score": 55.8,
-    "decision": "CONSIDER"
-  },
-  "3639650": {
-    "name": "Kotama and Academy Citadel",
-    "is_released": true,
-    "current": {
-      "price": 748.0,
-      "discount": 15
-    },
-    "stats": {
-      "lowest_price": 748.0,
-      "max_discount": 15,
-      "avg_discount": 6.43,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 8,
-      "days_since_lowest_price": 2,
-      "avg_days_between_sales": 39.0,
-      "sale_consistency": 0.5,
-      "price_trend": "stable",
-      "total_discounts": 2,
-      "discounts_last_year": 2,
-      "price_volatility": 0.076,
-      "data_points": 7,
-      "days_tracked": 108
-    },
-    "score": 55.75,
     "decision": "CONSIDER"
   },
   "287700": {
@@ -1160,33 +971,6 @@
     "score": 36.57,
     "decision": "CONSIDER"
   },
-  "427410": {
-    "name": "Abiotic Factor",
-    "is_released": true,
-    "current": {
-      "price": 1200.0,
-      "discount": 20
-    },
-    "stats": {
-      "lowest_price": 880.0,
-      "max_discount": 20,
-      "avg_discount": 9.73,
-      "price_position": 0.516,
-      "relative_discount": 1.0,
-      "days_since_last_discount": 1,
-      "days_since_lowest_price": 383,
-      "avg_days_between_sales": 42.3125,
-      "sale_consistency": 0.59,
-      "price_trend": "stable",
-      "total_discounts": 17,
-      "discounts_last_year": 9,
-      "price_volatility": 0.149,
-      "data_points": 37,
-      "days_tracked": 733
-    },
-    "score": 36.26,
-    "decision": "CONSIDER"
-  },
   "1259420": {
     "name": "Days Gone",
     "is_released": true,
@@ -1484,33 +1268,6 @@
     "score": 9.0,
     "decision": "WAIT"
   },
-  "558990": {
-    "name": "UNKNOWN_558990",
-    "is_released": true,
-    "current": {
-      "price": 880.0,
-      "discount": 0
-    },
-    "stats": {
-      "lowest_price": 180.0,
-      "max_discount": 80,
-      "avg_discount": 41.71,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 49,
-      "days_since_lowest_price": 1917,
-      "avg_days_between_sales": 133.52173913043478,
-      "sale_consistency": 0.0,
-      "price_trend": "stable",
-      "total_discounts": 24,
-      "discounts_last_year": 8,
-      "price_volatility": 0.234,
-      "data_points": 128,
-      "days_tracked": 3120
-    },
-    "score": 9.0,
-    "decision": "WAIT"
-  },
   "2162800": {
     "name": "shapez 2 - Factory",
     "is_released": true,
@@ -1698,6 +1455,33 @@
       "days_tracked": 1116
     },
     "score": 4.09,
+    "decision": "WAIT"
+  },
+  "3639650": {
+    "name": "Kotama and Academy Citadel",
+    "is_released": true,
+    "current": {
+      "price": 880.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 748.0,
+      "max_discount": 15,
+      "avg_discount": 5.62,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 2,
+      "avg_days_between_sales": 39.0,
+      "sale_consistency": 0.5,
+      "price_trend": "stable",
+      "total_discounts": 2,
+      "discounts_last_year": 2,
+      "price_volatility": 0.075,
+      "data_points": 8,
+      "days_tracked": 110
+    },
+    "score": 4.0,
     "decision": "WAIT"
   },
   "2903160": {
@@ -2132,33 +1916,6 @@
     "score": 1.0,
     "decision": "WAIT"
   },
-  "282070": {
-    "name": "This War of Mine",
-    "is_released": true,
-    "current": {
-      "price": 880.0,
-      "discount": 0
-    },
-    "stats": {
-      "lowest_price": 44.0,
-      "max_discount": 95,
-      "avg_discount": 40.46,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 60,
-      "days_since_lowest_price": 330,
-      "avg_days_between_sales": 79.87234042553192,
-      "sale_consistency": 0.0,
-      "price_trend": "stable",
-      "total_discounts": 48,
-      "discounts_last_year": 9,
-      "price_volatility": 0.323,
-      "data_points": 201,
-      "days_tracked": 3833
-    },
-    "score": 1.0,
-    "decision": "WAIT"
-  },
   "1145350": {
     "name": "Hades II",
     "is_released": true,
@@ -2321,6 +2078,33 @@
     "score": 0,
     "decision": "WAIT"
   },
+  "2830030": {
+    "name": "MOTORSLICE",
+    "is_released": true,
+    "current": {
+      "price": 792.0,
+      "discount": 10
+    },
+    "stats": {
+      "lowest_price": 792.0,
+      "max_discount": 10,
+      "avg_discount": 10,
+      "price_position": 0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "price_trend": "unknown",
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
+    },
+    "score": 0,
+    "decision": "WAIT"
+  },
   "2676030": {
     "name": "Runehaven",
     "is_released": true,
@@ -2406,15 +2190,15 @@
     "name": "A Fox Tale",
     "is_released": true,
     "current": {
-      "price": 611.0,
-      "discount": 15
+      "price": 719.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 611.0,
       "max_discount": 15,
-      "avg_discount": 15,
-      "price_position": 0,
-      "relative_discount": 1.0,
+      "avg_discount": 7.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 2,
       "days_since_lowest_price": 2,
       "avg_days_between_sales": null,
@@ -2422,9 +2206,9 @@
       "price_trend": "unknown",
       "total_discounts": 1,
       "discounts_last_year": 1,
-      "price_volatility": 0,
-      "data_points": 1,
-      "days_tracked": 0
+      "price_volatility": 0.106,
+      "data_points": 2,
+      "days_tracked": 2
     },
     "score": 0,
     "decision": "WAIT"
@@ -2564,6 +2348,168 @@
     "score": 0,
     "decision": "WAIT"
   },
+  "2275490": {
+    "name": "Kaizen: A Factory Story",
+    "is_released": true,
+    "current": {
+      "price": 204.0,
+      "discount": 50
+    },
+    "stats": {
+      "lowest_price": 204.0,
+      "max_discount": 50,
+      "avg_discount": 50,
+      "price_position": 0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 1,
+      "days_since_lowest_price": 1,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "price_trend": "unknown",
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
+    },
+    "score": 0,
+    "decision": "WAIT"
+  },
+  "3173130": {
+    "name": "Gun Frog",
+    "is_released": true,
+    "current": {
+      "price": 150.0,
+      "discount": 40
+    },
+    "stats": {
+      "lowest_price": 150.0,
+      "max_discount": 40,
+      "avg_discount": 40,
+      "price_position": 0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 1,
+      "days_since_lowest_price": 1,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "price_trend": "unknown",
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
+    },
+    "score": 0,
+    "decision": "WAIT"
+  },
+  "527230": {
+    "name": "For The King",
+    "is_released": true,
+    "current": {
+      "price": 105.0,
+      "discount": 80
+    },
+    "stats": {
+      "lowest_price": 105.0,
+      "max_discount": 80,
+      "avg_discount": 80,
+      "price_position": 0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 1,
+      "days_since_lowest_price": 1,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "price_trend": "unknown",
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
+    },
+    "score": 0,
+    "decision": "WAIT"
+  },
+  "427410": {
+    "name": "Abiotic Factor",
+    "is_released": true,
+    "current": {
+      "price": 1200.0,
+      "discount": 20
+    },
+    "stats": {
+      "lowest_price": 1200.0,
+      "max_discount": 20,
+      "avg_discount": 20,
+      "price_position": 0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 1,
+      "days_since_lowest_price": 1,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "price_trend": "unknown",
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
+    },
+    "score": 0,
+    "decision": "WAIT"
+  },
+  "558990": {
+    "name": "Opus Magnum",
+    "is_released": true,
+    "current": {
+      "price": 880.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 880.0,
+      "max_discount": 0,
+      "avg_discount": 0,
+      "price_position": 0,
+      "relative_discount": 0,
+      "days_since_last_discount": null,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "price_trend": "unknown",
+      "total_discounts": 0,
+      "discounts_last_year": 0,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
+    },
+    "score": 0,
+    "decision": "WAIT"
+  },
+  "2124490": {
+    "name": "SILENT HILL 2",
+    "is_released": true,
+    "current": {
+      "price": 2800.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 1400.0,
+      "max_discount": 50,
+      "avg_discount": 19.14,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 14,
+      "days_since_lowest_price": 2,
+      "avg_days_between_sales": 46.36363636363637,
+      "sale_consistency": 0.046,
+      "price_trend": "stable",
+      "total_discounts": 12,
+      "discounts_last_year": 8,
+      "price_volatility": 0.22,
+      "data_points": 29,
+      "days_tracked": 705
+    },
+    "score": -1.0,
+    "decision": "WAIT"
+  },
   "2754380": {
     "name": "The Roottrees are Dead",
     "is_released": true,
@@ -2641,6 +2587,33 @@
       "price_volatility": 0.154,
       "data_points": 77,
       "days_tracked": 1598
+    },
+    "score": -3.0,
+    "decision": "WAIT"
+  },
+  "3054210": {
+    "name": "Identifile: Desktop Dungeon",
+    "is_released": true,
+    "current": {
+      "price": 480.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 360.0,
+      "max_discount": 25,
+      "avg_discount": 10.42,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 8,
+      "days_since_lowest_price": 2,
+      "avg_days_between_sales": 38.5,
+      "sale_consistency": 0.324,
+      "price_trend": "stable",
+      "total_discounts": 5,
+      "discounts_last_year": 5,
+      "price_volatility": 0.112,
+      "data_points": 12,
+      "days_tracked": 162
     },
     "score": -3.0,
     "decision": "WAIT"
@@ -4400,6 +4373,33 @@
     "score": -15.0,
     "decision": "WAIT"
   },
+  "2947440": {
+    "name": "SILENT HILL f",
+    "is_released": true,
+    "current": {
+      "price": 3200.0,
+      "discount": 0
+    },
+    "stats": {
+      "lowest_price": 1600.0,
+      "max_discount": 50,
+      "avg_discount": 18.71,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
+      "days_since_last_discount": 14,
+      "days_since_lowest_price": 2,
+      "avg_days_between_sales": 29.6,
+      "sale_consistency": 0.751,
+      "price_trend": "stable",
+      "total_discounts": 6,
+      "discounts_last_year": 6,
+      "price_volatility": 0.223,
+      "data_points": 17,
+      "days_tracked": 335
+    },
+    "score": -15.0,
+    "decision": "WAIT"
+  },
   "2514960": {
     "name": "Refind Self: The Personality Test Game",
     "is_released": true,
@@ -5287,33 +5287,6 @@
       "price_volatility": 0.125,
       "data_points": 12,
       "days_tracked": 217
-    },
-    "score": -20.0,
-    "decision": "WAIT"
-  },
-  "731040": {
-    "name": "The Invincible",
-    "is_released": true,
-    "current": {
-      "price": 1499.0,
-      "discount": 0
-    },
-    "stats": {
-      "lowest_price": 599.0,
-      "max_discount": 60,
-      "avg_discount": 13.92,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 29,
-      "days_since_lowest_price": 60,
-      "avg_days_between_sales": 29.379310344827587,
-      "sale_consistency": 0.527,
-      "price_trend": "stable",
-      "total_discounts": 30,
-      "discounts_last_year": 13,
-      "price_volatility": 0.192,
-      "data_points": 65,
-      "days_tracked": 909
     },
     "score": -20.0,
     "decision": "WAIT"
