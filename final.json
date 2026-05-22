@@ -315,26 +315,26 @@
     "name": "Gorogoa",
     "is_released": true,
     "current": {
-      "price": 659.0,
-      "discount": 0
+      "price": 164.0,
+      "discount": 75
     },
     "stats": {
       "lowest_price": 137.0,
       "max_discount": 79,
-      "avg_discount": 42.79,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 46,
+      "avg_discount": 43,
+      "price_position": 0.052,
+      "relative_discount": 0.949,
+      "days_since_last_discount": 0,
       "days_since_lowest_price": 1247,
-      "avg_days_between_sales": 144.52380952380952,
+      "avg_days_between_sales": 140.04545454545453,
       "sale_consistency": 0.0,
-      "total_discounts": 22,
-      "discounts_last_year": 9,
+      "total_discounts": 23,
+      "discounts_last_year": 10,
       "lowest_price_1y": 164.0,
       "lowest_price_2y": 164.0,
       "price_volatility": 0.287,
-      "data_points": 155,
-      "days_tracked": 3062
+      "data_points": 156,
+      "days_tracked": 3081
     }
   },
   "1601570": {
@@ -3357,26 +3357,26 @@
     "name": "Lorelei and the Laser Eyes",
     "is_released": true,
     "current": {
-      "price": 1049.0,
-      "discount": 0
+      "price": 524.0,
+      "discount": 50
     },
     "stats": {
       "lowest_price": 524.0,
       "max_discount": 50,
-      "avg_discount": 14.86,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 46,
-      "days_since_lowest_price": 46,
-      "avg_days_between_sales": 35.0,
-      "sale_consistency": 0.545,
-      "total_discounts": 16,
-      "discounts_last_year": 9,
+      "avg_discount": 15.83,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": 35.6875,
+      "sale_consistency": 0.562,
+      "total_discounts": 17,
+      "discounts_last_year": 10,
       "lowest_price_1y": 524.0,
       "lowest_price_2y": 524.0,
-      "price_volatility": 0.175,
-      "data_points": 35,
-      "days_tracked": 717
+      "price_volatility": 0.182,
+      "data_points": 36,
+      "days_tracked": 736
     }
   },
   "2124120": {
