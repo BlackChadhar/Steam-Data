@@ -5651,7 +5651,7 @@
     "stats": {
       "lowest_price": 599.0,
       "max_discount": 50,
-      "avg_discount": 17.05,
+      "avg_discount": 17.45,
       "price_position": 0.1,
       "relative_discount": 1.0,
       "days_since_last_discount": 1,
@@ -5663,7 +5663,7 @@
       "lowest_price_1y": 674.0,
       "lowest_price_2y": 674.0,
       "price_volatility": 0.182,
-      "data_points": 82,
+      "data_points": 83,
       "days_tracked": 1485
     }
   },
@@ -5821,6 +5821,32 @@
       "price_volatility": 0.071,
       "data_points": 2,
       "days_tracked": 6
+    }
+  },
+  "3979330": {
+    "name": "nophenia",
+    "is_released": true,
+    "current": {
+      "price": 225.0,
+      "discount": 10
+    },
+    "stats": {
+      "lowest_price": 225.0,
+      "max_discount": 10,
+      "avg_discount": 10,
+      "price_position": 0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "lowest_price_1y": 225.0,
+      "lowest_price_2y": 225.0,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
     }
   },
   "3700980": {
@@ -6078,6 +6104,32 @@
       "discounts_last_year": 1,
       "lowest_price_1y": 639.0,
       "lowest_price_2y": 639.0,
+      "price_volatility": 0,
+      "data_points": 1,
+      "days_tracked": 0
+    }
+  },
+  "414340": {
+    "name": "Hellblade: Senua's Sacrifice",
+    "is_released": true,
+    "current": {
+      "price": 499.0,
+      "discount": 75
+    },
+    "stats": {
+      "lowest_price": 499.0,
+      "max_discount": 75,
+      "avg_discount": 75,
+      "price_position": 0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": null,
+      "sale_consistency": null,
+      "total_discounts": 1,
+      "discounts_last_year": 1,
+      "lowest_price_1y": 499.0,
+      "lowest_price_2y": 499.0,
       "price_volatility": 0,
       "data_points": 1,
       "days_tracked": 0
