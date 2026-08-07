@@ -1797,15 +1797,15 @@
     "name": "R.E.P.O.",
     "is_released": true,
     "current": {
-      "price": 291.0,
-      "discount": 35
+      "price": 449.0,
+      "discount": 6
     },
     "stats": {
       "lowest_price": 291.0,
       "max_discount": 100,
-      "avg_discount": 75.74,
-      "price_position": 0.0,
-      "relative_discount": 0.35,
+      "avg_discount": 73.25,
+      "price_position": 0.836,
+      "relative_discount": 0.06,
       "days_since_last_discount": 527,
       "days_since_lowest_price": 14,
       "avg_days_between_sales": null,
@@ -1814,9 +1814,9 @@
       "discounts_last_year": 0,
       "lowest_price_1y": 291.0,
       "lowest_price_2y": 291.0,
-      "price_volatility": 0.151,
-      "data_points": 27,
-      "days_tracked": 513
+      "price_volatility": 0.149,
+      "data_points": 28,
+      "days_tracked": 527
     }
   },
   "2131650": {
@@ -2343,26 +2343,26 @@
     "name": "Dune: Awakening",
     "is_released": true,
     "current": {
-      "price": 2799.0,
-      "discount": 0
+      "price": 1679.0,
+      "discount": 40
     },
     "stats": {
       "lowest_price": 1679.0,
       "max_discount": 40,
-      "avg_discount": 12.22,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 43,
-      "days_since_lowest_price": 43,
-      "avg_days_between_sales": 47.833333333333336,
-      "sale_consistency": 0.53,
-      "total_discounts": 7,
-      "discounts_last_year": 7,
+      "avg_discount": 13.68,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": 47.142857142857146,
+      "sale_consistency": 0.563,
+      "total_discounts": 8,
+      "discounts_last_year": 8,
       "lowest_price_1y": 1679.0,
       "lowest_price_2y": 1679.0,
-      "price_volatility": 0.167,
-      "data_points": 18,
-      "days_tracked": 472
+      "price_volatility": 0.175,
+      "data_points": 19,
+      "days_tracked": 501
     }
   },
   "2605790": {
@@ -2421,26 +2421,26 @@
     "name": "Fatekeeper",
     "is_released": true,
     "current": {
-      "price": 760.0,
-      "discount": 0
+      "price": 684.0,
+      "discount": 10
     },
     "stats": {
       "lowest_price": 608.0,
       "max_discount": 20,
       "avg_discount": 10,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 66,
+      "price_position": 0.5,
+      "relative_discount": 0.5,
+      "days_since_last_discount": 0,
       "days_since_lowest_price": 66,
-      "avg_days_between_sales": null,
-      "sale_consistency": null,
-      "total_discounts": 1,
-      "discounts_last_year": 1,
+      "avg_days_between_sales": 66.0,
+      "sale_consistency": 0.5,
+      "total_discounts": 2,
+      "discounts_last_year": 2,
       "lowest_price_1y": 608.0,
       "lowest_price_2y": 608.0,
-      "price_volatility": 0.141,
-      "data_points": 2,
-      "days_tracked": 14
+      "price_volatility": 0.1,
+      "data_points": 3,
+      "days_tracked": 66
     }
   },
   "2071280": {
@@ -4397,26 +4397,26 @@
     "name": "SUPERHOT",
     "is_released": true,
     "current": {
-      "price": 899.0,
-      "discount": 0
+      "price": 269.0,
+      "discount": 70
     },
     "stats": {
       "lowest_price": 185.0,
       "max_discount": 79,
-      "avg_discount": 42.99,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 43,
+      "avg_discount": 43.11,
+      "price_position": 0.118,
+      "relative_discount": 0.886,
+      "days_since_last_discount": 0,
       "days_since_lowest_price": 1210,
-      "avg_days_between_sales": 107.8,
+      "avg_days_between_sales": 106.0,
       "sale_consistency": 0.0,
-      "total_discounts": 36,
-      "discounts_last_year": 10,
+      "total_discounts": 37,
+      "discounts_last_year": 11,
       "lowest_price_1y": 240.0,
       "lowest_price_2y": 240.0,
       "price_volatility": 0.274,
-      "data_points": 226,
-      "days_tracked": 3787
+      "data_points": 227,
+      "days_tracked": 3816
     }
   },
   "1637320": {
@@ -5827,15 +5827,15 @@
     "name": "The First Million",
     "is_released": true,
     "current": {
-      "price": 287.0,
-      "discount": 20
+      "price": 359.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 287.0,
       "max_discount": 20,
-      "avg_discount": 10,
-      "price_position": 0.0,
-      "relative_discount": 1.0,
+      "avg_discount": 7.5,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 7,
       "days_since_lowest_price": 7,
       "avg_days_between_sales": 37.0,
@@ -5844,9 +5844,9 @@
       "discounts_last_year": 2,
       "lowest_price_1y": 287.0,
       "lowest_price_2y": 287.0,
-      "price_volatility": 0.1,
-      "data_points": 3,
-      "days_tracked": 37
+      "price_volatility": 0.096,
+      "data_points": 4,
+      "days_tracked": 44
     }
   },
   "2881370": {
