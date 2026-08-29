@@ -1589,15 +1589,15 @@
     "name": "Thronefall",
     "is_released": true,
     "current": {
-      "price": 396.0,
-      "discount": 35
+      "price": 610.0,
+      "discount": 0
     },
     "stats": {
       "lowest_price": 258.0,
       "max_discount": 58,
-      "avg_discount": 22.13,
-      "price_position": 0.392,
-      "relative_discount": 0.603,
+      "avg_discount": 21.78,
+      "price_position": 1.0,
+      "relative_discount": 0.0,
       "days_since_last_discount": 14,
       "days_since_lowest_price": 936,
       "avg_days_between_sales": 61.611111111111114,
@@ -1606,9 +1606,9 @@
       "discounts_last_year": 10,
       "lowest_price_1y": 396.0,
       "lowest_price_2y": 396.0,
-      "price_volatility": 0.178,
-      "data_points": 62,
-      "days_tracked": 1109
+      "price_volatility": 0.179,
+      "data_points": 63,
+      "days_tracked": 1123
     }
   },
   "420530": {
@@ -2317,26 +2317,26 @@
     "name": "Bloodthief",
     "is_released": true,
     "current": {
-      "price": 880.0,
-      "discount": 0
+      "price": 440.0,
+      "discount": 50
     },
     "stats": {
-      "lowest_price": 528.0,
-      "max_discount": 40,
-      "avg_discount": 13.77,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 47,
-      "days_since_lowest_price": 47,
-      "avg_days_between_sales": 32.666666666666664,
-      "sale_consistency": 0.666,
-      "total_discounts": 10,
-      "discounts_last_year": 10,
-      "lowest_price_1y": 528.0,
-      "lowest_price_2y": 528.0,
-      "price_volatility": 0.151,
-      "data_points": 22,
-      "days_tracked": 308
+      "lowest_price": 440.0,
+      "max_discount": 50,
+      "avg_discount": 15.35,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": 34.1,
+      "sale_consistency": 0.671,
+      "total_discounts": 11,
+      "discounts_last_year": 11,
+      "lowest_price_1y": 440.0,
+      "lowest_price_2y": 440.0,
+      "price_volatility": 0.166,
+      "data_points": 23,
+      "days_tracked": 341
     }
   },
   "1172710": {
@@ -4423,26 +4423,26 @@
     "name": "Dome Keeper",
     "is_released": true,
     "current": {
-      "price": 810.0,
-      "discount": 0
+      "price": 243.0,
+      "discount": 70
     },
     "stats": {
       "lowest_price": 243.0,
       "max_discount": 70,
-      "avg_discount": 26.54,
-      "price_position": 1.0,
-      "relative_discount": 0.0,
-      "days_since_last_discount": 44,
-      "days_since_lowest_price": 44,
-      "avg_days_between_sales": 37.648648648648646,
-      "sale_consistency": 0.345,
-      "total_discounts": 38,
-      "discounts_last_year": 11,
+      "avg_discount": 27.03,
+      "price_position": 0.0,
+      "relative_discount": 1.0,
+      "days_since_last_discount": 0,
+      "days_since_lowest_price": 0,
+      "avg_days_between_sales": 37.81578947368421,
+      "sale_consistency": 0.356,
+      "total_discounts": 39,
+      "discounts_last_year": 12,
       "lowest_price_1y": 243.0,
       "lowest_price_2y": 243.0,
-      "price_volatility": 0.269,
-      "data_points": 87,
-      "days_tracked": 1407
+      "price_volatility": 0.271,
+      "data_points": 88,
+      "days_tracked": 1437
     }
   },
   "553420": {
